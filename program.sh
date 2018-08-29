@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Author: Alexander Ulyanov
-# Title: Final Project for CM325 Class
+# Author: a-ulnv
 
 # Trap ------------------------------------
 pb_exit(){
